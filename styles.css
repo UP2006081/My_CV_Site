@@ -71,7 +71,6 @@ body {
 
 .card-text {
     grid-area: text;
-    margin: 25px;
 }
 
 .card-text .subtext {
